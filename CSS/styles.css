@@ -1,0 +1,43 @@
+body {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.profile-pic {
+  border: 5px solid #EB5160;
+  border-radius: 50%;
+  width: 250px;
+}
+
+h2 {
+  padding: 25px;
+  color: #EB5160;
+}
+
+p {
+  padding-left: 25px
+}
+
+.profession {
+  padding-top: 7px;
+}
+
+.icon {
+ width: 100px;
+}
+
+ul {
+  padding-left: 25px;
+  display: flex;
+  gap: 20px;
+}
+
